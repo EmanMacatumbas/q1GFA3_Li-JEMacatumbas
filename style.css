@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dela+Gothic+One&family=Martian+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Lexend+Exa&display=swap');
+*{
+    margin: 0%;
+    color: #000000;
+}
+body{
+    margin: 0%;
+    background-image: url(images/depression.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    object-fit: cover;
+}
+.topbar{
+    border: 1px solid black;
+    background-color: #040721;
+    height: 12vh;
+    width: 100vw;
+    position: fixed;
+}
+.logo{
+    display: inline-block;
+    border-radius: 50%;
+    margin: 1vw;
+   
+}
+.logoimage{
+    border-radius: 50%;
+    width: 8vh;
+    aspect-ratio: 1/1;
+}
+.pagename{
+    display: inline-block;
+    width: 92vw;
+    margin-top: 0vh;
+}
+.menubar{
+    height: 10vh;
+    width: 50vw;
+    background-color: #989898;
+    margin-top: 17vh;
+    margin-left: 25vw;
+    position: fixed;
+}
+.introductionlink{
+    border-radius: 1px solid black;
+    height: 30vh;
+    width: 40vw;
+    padding-top: 5%;
+    background-color: #AAA9A9;
+    margin-top: 33vh;
+    margin-left: 30vw;
+    position: fixed;
+}
+.footer{
+    width: 100vw;
+    background-color: #040721;
+    margin-top: 88vh;
+    height: 12vh;
+    position: fixed;
+}
+.buttonicons{
+    display: inline-block;
+    background-color: #0057FF;
+    height: 10.2vh;
+    aspect-ratio: 1/1;
+    margin-left: 2.5vw;
+    margin-right: 2.5vw;
+    border-radius: 50%;
+}
+.copyright{
+    display: inline-block;
+}
+.bigcircle{
+    display: inline-block;
+    background-color: #0057FF;
+    height: 40vh;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    margin-top: 70vh;
+    margin-left: 85vw;
+    position: fixed;
+    padding-top: 8vh;
+    padding-left: 4vw;
+}
+.smallcircle{
+    width: 7vw;
+    aspect-ratio: 1/1;
+    background-color: #0041BF;
+    border-radius: 50%;
+    padding: 1%;
+}
+.abtUslinkpic{
+    width: 4vw;
+    aspect-ratio: 1/1.3;
+    margin-left: 1vw;
+    margin-right: 1vh;
+    margin-left: 1.5vw;
+    margin-top: 1.5vh;
+}
+.buttonpics{
+    height: 6.2vh;
+    aspect-ratio: 1/1;
+    margin: 18%;
+}
+.menubar2{
+    margin-left: 95vw;
+    width: 5vw;
+    height: 100vh;
+    background-color: #3E3838;
+    position: fixed;
+}
+.buttonicons2{
+    height: 9vh;
+    aspect-ratio: 1/1;
+    background-color: #0057FF;
+    margin-left: -2vw;
+    margin-top: 2vh;
+    border-radius: 50%;
+}
+.topbar2{
+    border: 1px solid black;
+    background-color: #040721;
+    height: 12vh;
+    width: 100vw;
+    margin-left: -95vw;
+}
+.footer2{
+    width: 100vw;
+    background-color: #040721;
+    margin-top: 75vh;
+    height: 12vh;
+    margin-top: 88vh;
+    display: inline-block;
+    position: fixed;
+}
+.tempgallery{
+    display: inline-block;
+}
+.buttonpics2{
+    height: 6vh;
+    aspect-ratio: 1/1;
+    margin: 18%;
+}
+.referencesblock{
+    background-color: #AAA9A9;
+    height: 40vh;
+    width: 65vw;
+    margin-top: 20vh;
+    margin-left: 10vw;
+    padding: 5%;
+    display: inline-block;
+}
+.authordiv{
+    margin-top: 20vh;
+    margin-left: 8vw;
+    margin-bottom: 40vh;
+    float: left;
+}
+.picauthor{
+    width: 20vw;
+    aspect-ratio: 1/1;
+}
+li{
+    text-align: center;
+    font-family: 'Lexend Exa', sans-serif;
+    font-size: 2vh;
+    color: #000000;
+}
+h1{
+    font-family: 'Dela Gothic One', sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+.copyright{
+    margin: 0.5%;
+    font-family: 'Lexend Exa', sans-serif;
+    color: #ffffff;
+}
+h2{
+    font-family: 'Lexend Exa', sans-serif;
+    color: #000000;
+    text-align: center;
+    font-size: 200%;
+}
+.cv{
+    width: 20vw;
+    height: 80vh;
+}
+p{
+    font-family: 'Lexend Exa', sans-serif;
+    color: #000000;
+    background-color: #AAA9A9;
+    word-break: break-all;
+}
+.education{
+    background-color: #AAA9A9;
+}
+.cvhead{
+    background-color: #AAA9A9;
+}
